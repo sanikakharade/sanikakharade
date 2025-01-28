@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanikakharade&label=Profile%20views&color=0e75b6&style=flat" alt="sanikakharade" /> </p>
 
-- 🔭 I’m currently working on **Transafer**
+- 🔭 I’m currently working on **cultivating new skills**
 
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **MERN, DSA**
 
-- 📫 How to reach me **kharadesanika@gmail.com**
+- 📫 How to reach me: **kharadesanika@gmail.com**
 
 - ⚡ Fun fact **I love to play any sports**
 
