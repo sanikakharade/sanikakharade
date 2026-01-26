@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **MERN, DSA**
+- 💬 Ask me about **DevOps, Cloud, MERN, DSA**
 
 - 📫 How to reach me **kharadesanika@gmail.com**
 
