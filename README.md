@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Engineer from Pune, India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-- 🔭 I’m currently working on **Transafer**
+- 🔭 I’m currently working on **DevSecOps and Cloud**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **GCP**
 
 - 💬 Ask me about **DevOps, Cloud, MERN, DSA**
 
